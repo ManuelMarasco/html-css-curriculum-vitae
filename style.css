@@ -1,16 +1,41 @@
-img  {
-    margin: 10%;
+body {
+    width: 800px;
+    margin:0 auto;
+}
+
+#header-div {
+    text-align: center;
+    background-color: whitesmoke;
+}
+
+img {
     width: 250px;
     height: 250px;
 }
 
-header {
-    margin: 10%;
-    border-bottom: coral;
+h2 {
+    color: #d08d10;
 }
 
-footer {
-    margin-left: 30%;
+h3 {
+    font-style: italic;
 }
 
+#footer {
+    text-align: center;
+}
+
+#header-hr {
+    background-color: #d08d10;
+    color: #d08d10;
+    border: none;
+    height: 3px;
+}
+
+#footer-hr {
+    background-color: #d08d10;
+    color: #d08d10;
+    border: none;
+    height: 2px;
+}
 
